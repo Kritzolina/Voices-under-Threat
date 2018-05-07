@@ -1,6 +1,8 @@
 # Voices-under-Threat
 **Welcome as a helper to the Voices under Threat project!** 
 
+<img src="Wikipedia_welcome_committee_topicon_graphic.PNG" width="150" height="150">
+
 We are glad you are here to join the effort to free knowledge all around the globe and keep all contributors to that goal safe!
  
 Voices under Threat is a project run by the Trust and Safety team at the Wikimedia Foundation. The project lead is Christel Steigenberger, also known as Kritzolina. Together with volunteers and helpers like you, we want to find, build and collect resources to help individual contributors and groups supporting open knowledge who face external risks and threats, because they share knowledge freely. Some of you may know about [Bassel Khartabil](https://en.wikipedia.org/wiki/Bassel_Khartabil) and his tragic death. But there are also other, less famous contributors that face pressure and dangers. Some because they edit articles on Wikipedia that have clear political content. Some because they upload pictures with free licenses that show truths which are unpleasant to people in power. Some for adding code to a project which helps such knowledge to be shared and spread. Some just because their governments do not like Wikipedia, or free and open knwoledge sharing in general.    

@@ -9,4 +9,4 @@ You can contribute to this effort by showing us resources that can be shared pub
  
 We have created issues with first resources. You can just add whatever you have to share below the already listed resources. If you run into any technical problems, or if you know about a resource, but do not feel comfortable sharing it publicly because of safety concerns, feel free to reach out to me through email: CSteigenberger@wikimedia.org.
 
-This project follows the (https://www.mozilla.org/en-US/about/governance/policies/participation/ "Mozilla Community Participation Guidelines")
+This project follows the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/ "Mozilla Community Participation Guidelines")

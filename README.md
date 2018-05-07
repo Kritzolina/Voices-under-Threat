@@ -1,7 +1,8 @@
 # Voices-under-Threat
 **Welcome as a helper to the Voices under Threat project!** 
 
-<img src="Wikipedia_welcome_committee_topicon_graphic.PNG" width="190" height="150">
+<img src="Wikipedia_welcome_committee_topicon_graphic.PNG" width="190" height="150" title="Image by Bfpage on Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Wikipedia_welcome_committee_topicon_graphic.PNG">
+
 
 We are glad you are here to join the effort to free knowledge all around the globe and keep all contributors to that goal safe!
  
